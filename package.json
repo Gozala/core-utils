@@ -1,5 +1,5 @@
 { "name": "core-utils"
-, "version": "0.0.1"
+, "version": "0.0.2"
 , "description": "Utility library for everyday javasciprt."
 , "homepage": "http://github.com/Gozala/core-utils/"
 , "keywords": ["utils", "core"]
